@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kengboonang
 - 👀 I’m interested in rock climbing and coding
-- 🌱 I’m currently learning more about the python language
+- 🌱 Python, SQL, PHP
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: kengboonang@yahoo.com.sg
+- 📫 How to reach me: kbang.2021@scis.smu.edu.sg
 
 <!---
 kengboonang/kengboonang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
