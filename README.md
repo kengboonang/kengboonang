@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kengboonang
 - 👀 I’m interested in rock climbing and coding
-- 🌱 Python, SQL, PHP
+- 🌱 Python, SQL, PHP, JavaScript, Pandas, Sci-kit Learn, Matplotlib, Docker
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: kbang.2021@scis.smu.edu.sg
 
